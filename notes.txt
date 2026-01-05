@@ -1,2 +1,4 @@
 my first Git File
 avalin taghir
+dovomin taghir
+
