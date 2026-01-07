@@ -3,4 +3,14 @@
 
 my first Git File
 avalin taghir
+ HEAD
 fdjdjvbvjdb
+
+dovomin taghir
+
+test branch
+
+branch 2 test
+branch 3
+
+ login-feature
