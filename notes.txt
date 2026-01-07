@@ -3,7 +3,7 @@
 
 my first Git File
 avalin taghir
- HEAD
+ 
 fdjdjvbvjdb
 
 dovomin taghir
@@ -16,7 +16,10 @@ branch 3
  login-feature
 after token
 
+ 
 
 git pull test
 
+git push only branch
+ login-feature
 
