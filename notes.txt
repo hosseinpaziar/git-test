@@ -10,6 +10,7 @@ dovomin taghir
 
 test branch
 
+<<<<<<< HEAD
 branch 2 test
 branch 3
 
@@ -23,3 +24,5 @@ git pull test
 git push only branch
  login-feature
 
+=======
+>>>>>>> parent of c516d11 (dovomin branch test)
